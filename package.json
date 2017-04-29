@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "ToDo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanZabeu/todo-app.git"
+  },
+  "author": "Renan Zabeu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanZabeu/todo-app/issues"
+  },
+  "homepage": "https://github.com/RenanZabeu/todo-app#readme"
+}
